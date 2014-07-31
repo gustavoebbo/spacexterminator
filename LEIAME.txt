@@ -1,0 +1,66 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+/   _________                           ____  ___       ___________                  .__               __                   /
+/  /   _____/__________    ____  ____   \   \/  /       \__    ___/__________  _____ |__| ____ _____ _/  |_  ___________    /                
+/  \_____  \\____ \__  \ _/ ___\/ __ \   \     /   ______ |    |_/ __ \_  __ \/     \|  |/    \\__  \\   __\/  _ \_  __ \   /   
+/  /        \  |_> > __ \\  \__\  ___/   /     \  /_____/ |    |\  ___/|  | \/  Y Y  \  |   |  \/ __ \|  | (  <_> )  | \/   /
+/ /_______  /   __(____  /\___  >___  > /___/\  \         |____| \___  >__|  |__|_|  /__|___|  (____  /__|  \____/|__|      /
+/         \/|__|       \/     \/    \/        \_/                    \/            \/        \/     \/                      /
+/                                                                                                                           /
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+O jogo Space X-Terminator é projeto de computação 1 do curso de Ciencia da Computação da Universidade Federal Rural do Rio de Janeiro, sem fins lucrativos.
+O projeto está em fase desenvolvimento e recebe diversas atualizações via GitHub.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Está incluido no jogo: 
+10 fases com diferentes níveis de dificuldade - Fácil, moderado e difícil.
+Sistema de recordes.
+Savegame.
+Diversos coletáveis, que alteram a jogabilidade durante a fases.
+Todo o conteúdo do jogo é Open Source.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pasta do GitHub do projeto: /gustavoebbo/spacexterminator
+
+Jogo desenvolvido durante o primeiro semestre de 2014.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informações:
+As setas do teclado direcionam o personagem.
+A barra de espaço coloca as bombas no mapa.
+A bomba explode após 3 segundos no mapa.
+A tecla enter seleciona o menu do jogo.
+Esc pausa o jogo e/ou retorna ao menu.
+A saída da fase é simbolizada como um buraco no piso da nave.
+Cristais coletados após a destruição de blocos valem 200 pontos de radiação.
+Ao coletar 3 cristais em uma fase, você recebe o título "Mestre dos Cristais" e recebe pontos extras pela conquista.
+O coletável plutônio aumenta o raio explosivo de sua bomba.
+O coração simboliza mais uma vida.
+As vidas só contam durante o nível jogado.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Enredo: 
+Sua nave coletora de cristais foi abordada por Graffitons, uma forma de vida baseada em carbono comprimido. Eles querem saquear os cristais que estão sendo transportados na sua espaçonave para o desenvolvimento de armas de grande poder destrutivo. Seu dever é impedi-los. Por terem uma consistência extremamente dura, a única forma de detê-los é com bombas que utilizam o plutônio como provedor de energia. Espero que saiba como usá-las!
+A destruição de inimigos e blocos aumenta a radiação no ambiente, que será contabilizada como sua pontuação.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Desenvolvedores:
+Gustavo Ebbo Jordão Gonçalves
+Rodrigo Vicente Calabria
+Ivo Santos Paiva
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Biblioteca utilizade:
+SDL 1.2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Contatos:
+Gustavo Ebbo Jordão Gonçalves: gustavoebbo@live.com
+Rodrigo Vicente Calabria: rodrigovcalabria@hotmail.com
+Ivo Santos Paiva: ivo_paiva10@hotmail.com
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
